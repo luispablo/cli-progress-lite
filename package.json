@@ -1,0 +1,26 @@
+{
+  "name": "cli-progress-lite",
+  "version": "1.0.0",
+  "description": "Smallest and simplest CLI progress bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luispablo/cli-progress-lite.git"
+  },
+  "keywords": [
+    "cli",
+    "progress",
+    "bar",
+    "node",
+    "nodejs"
+  ],
+  "author": "luispablo",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/luispablo/cli-progress-lite/issues"
+  },
+  "homepage": "https://github.com/luispablo/cli-progress-lite#readme"
+}
